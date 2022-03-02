@@ -9,10 +9,9 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg#gh-light-mode-only)](https://linkedin.com/in/21satvikkumar)
-[![website](./img/linkedin-dark.svg#gh-dark-mode-only)](https://linkedin.com/in/21satvikkumar)
-&nbsp;&nbsp;
+<a href = "https://linkedin.com/in/21satvikkumar"><img align="left" alt="LinkedIn" width="24px" src="./img/linkedin-light.svg#gh-light-mode-only" style="padding-right:10px;" /> </a>
+<img align="left" alt="LinkedIn" width="24px" src="./img/linkedin-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />
+
 [![website](./img/github-light.svg#gh-light-mode-only)](https://github.com/21satvik)
 [![website](./img/github-dark.svg#gh-dark-mode-only)](https://github.com/21satvik)
 &nbsp;&nbsp;
@@ -22,15 +21,24 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
-<img align="left" alt="dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" /
+
+<img align="left" alt="dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="github" width="26px" src="./img/github-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="github" width="26px" src="./img/github-light.svg#gh-light-mode-only" style="padding-right:10px;" />
+
 <img align="left" alt="heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
 
 <br/>
