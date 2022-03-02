@@ -10,13 +10,14 @@
 ### Connect with me:
 
 <a href = "https://linkedin.com/in/21satvikkumar"><img align="left" alt="LinkedIn" width="24px" src="./img/linkedin-light.svg#gh-light-mode-only" style="padding-right:10px;" /> </a>
-<img align="left" alt="LinkedIn" width="24px" src="./img/linkedin-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />
+<a href = "https://linkedin.com/in/21satvikkumar"><img align="left" alt="LinkedIn" width="24px" src="./img/linkedin-dark.svg#gh-dark-mode-only" style="padding-right:10px;" /></a>
 
-[![website](./img/github-light.svg#gh-light-mode-only)](https://github.com/21satvik)
-[![website](./img/github-dark.svg#gh-dark-mode-only)](https://github.com/21satvik)
-&nbsp;&nbsp;
-[![website](./img/mail-light.svg#gh-light-mode-only)](mailto:satvikkumar2101@gmail.com)
-[![website](./img/mail-dark.svg#gh-dark-mode-only)](mailto:satvikkumar2101@gmail.com)
+<a href = "https://github.com/21satvik"><img align="left" alt="github" width="24px" src="./img/github-light.svg#gh-light-mode-only" style="padding-right:10px;" /> </a>
+<a href = "https://github.com/21satvik"><img align="left" alt="github" width="24px" src="./img/github-dark.svg#gh-dark-mode-only" style="padding-right:10px;" /></a>
+
+<a href = "mailto:satvikkumar2101@gmail.com"><img align="left" alt="mail" width="24px" src="./img/mail-light.svg#gh-light-mode-only" style="padding-right:10px;" /> </a>
+<a href = "mailto:satvikkumar2101@gmail.com"><img align="left" alt="mail" width="24px" src="./img/mail-dark.svg#gh-dark-mode-only" style="padding-right:10px;" /></a>
+<br/>
 
 ### Languages and Tools:
 
