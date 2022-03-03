@@ -17,6 +17,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/esperscythe#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/esperscythe#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/satvikkumar2101#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/satvikkumar2101#gh-dark-mode-only)
 
 ### Languages and Tools:
 
