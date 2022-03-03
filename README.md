@@ -2,7 +2,7 @@
 
 ## I'm a Student and a Developer!
 
-- 🌱 I’m currently learning anything that piques my interest really
+- 🌱 I’m currently a full stack developer and learning anything that piques my interest
 - 👯 I’m looking to start contributing to open source community
 - 🥅 2022 Goals: Learn more about AI/ML
 - ⚡ Fun fact: I also have experience video editing and photoshop
@@ -41,6 +41,12 @@
 
 <img align="left" alt="github" width="26px" src="./img/github-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="github" width="26px" src="./img/github-light.svg#gh-light-mode-only" style="padding-right:10px;" />
+
+<img align="left" alt="Amazon aws" width="26px" src="./img/aws.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/344/firebase.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Cloud Firestore" width="26px" src="https://img.icons8.com/color/344/cloud-firestore.svg" style="padding-right:10px;" />
 
 <img align="left" alt="heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
 
