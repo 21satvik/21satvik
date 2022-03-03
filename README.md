@@ -14,6 +14,9 @@
 &nbsp;&nbsp;
 [![website](./img/github-light.svg)](https://github.com/21satvik#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/21satvik#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/esperscythe#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/esperscythe#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -46,9 +49,4 @@
 <details>
   <summary><b> GitHub Stats </b></summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=21satvik&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[github]: https://github.com/21satvik
-[linkedin]: https://linkedin.com/in/21satvikkumar
+  <img align="left" alt="Satvik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=21satvik&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
