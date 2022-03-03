@@ -1,8 +1,6 @@
 # Hi there, I'm Satvik 👋
 
-I'm a Student and a Developer working towards achieve a position where I can proficiently contribute my skills and abilities to the growth of the organization as well as build my professional career and interpersonal skills.
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+## I'm a Student and a Developer!
 
 - 🌱 I’m currently a full stack developer and learning anything that piques my interest
 - 👯 I’m looking to start contributing to open source community
