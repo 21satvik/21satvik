@@ -59,6 +59,7 @@
   <summary><b>Recent GitHub Activity</b></summary>
   
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 </details>
