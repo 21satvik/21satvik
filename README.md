@@ -59,6 +59,7 @@
 
   <summary><b> GitHub Stats </b></summary>
   <img align="left" alt="Satvik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=21satvik&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=21satvik&theme=blue-green" />
   <img align="left" alt="Satvik's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21satvik&theme=radical" />
 
 </details>
