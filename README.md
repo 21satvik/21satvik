@@ -2,7 +2,7 @@
 
 ## I'm a Student and a Developer!
 
-- 🌱 I’m currently a full stack developer and learning anything that piques my interest
+- 🌱 I'm currently a full stack developer and learning anything that piques my interest
 - 👯 I’m looking to start contributing to open source community
 - 🥅 2022 Goals: Learn more about AI/ML
 - ⚡ Fun fact: I also have experience video editing and photoshop
