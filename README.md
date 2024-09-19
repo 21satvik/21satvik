@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently a full stack developer and learning anything that piques my interest
 - 👯 I’m looking to start contributing to open source community
-- 🥅 2022 Goals: Learn more about AI/ML
+- 🥅 2024 Goals: Expand my knowledge in microservices and cloud-native development.
 - ⚡ Fun fact: I also have experience video editing and photoshop
 
 ### Connect with me:
@@ -23,30 +23,38 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Helidon" width="26px" src="https://helidon.io/docs/v4/images/helidon_logo_dark.svg" style="padding-right:10px;" />
 
-<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Spring Boot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="GO" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Amazon Web Services" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Github" width="26px" src="./img/github-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />
+
+<img align="left" alt="github" width="26px" src="./img/github-light.svg#gh-light-mode-only" style="padding-right:10px;" />
+
+<img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="github" width="26px" src="./img/github-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />
-<img align="left" alt="github" width="26px" src="./img/github-light.svg#gh-light-mode-only" style="padding-right:10px;" />
-
-<img align="left" alt="Amazon aws" width="26px" src="./img/aws.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/344/firebase.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Cloud Firestore" width="26px" src="https://img.icons8.com/color/344/cloud-firestore.svg" style="padding-right:10px;" />
 
 <img align="left" alt="heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
 
